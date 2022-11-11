@@ -1,1 +1,0 @@
-BodyResponse{sources=Sources{original_location=9.2365, location=9.2365}, targets=Targets{original_location=9.04929, location=9.04929}, sourcesToTargets=SourcesToTargets{distance=36533, time=30561, source_index=0, target_index=1}, units='metric', distance_units='meters', mode='walk'}
